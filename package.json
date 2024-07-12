@@ -3,8 +3,8 @@
   "description": "A starter project for AngularJS",
   "repository": "https://github.com/angular/angular-seed",
   "devDependencies": {
-    "phantomjs" : "~1.9",
-    "karma" : "~0.10",
+    "phantomjs" : "~2.1",
+    "karma" : "~6.4",
     "karma-junit-reporter" : "~0.1",
     "karma-jasmine" : "~0.1",
     "protractor" : "~0.17.0"
